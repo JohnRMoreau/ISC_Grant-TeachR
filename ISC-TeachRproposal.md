@@ -18,9 +18,12 @@ teaching methodology, is not widely available.
 
 #### The plan
 
-> How are you going to solve the problem? Include the concrete actions
-> you will take and an estimated timeline. What are likely failure
-> modes and how will you recover from them?
+> How are you going to solve the problem? Include the concrete actions you will take and an estimated timeline. What are likely failure modes and how will you recover from them?
+
+
+We propose developing interactive modules to teach introductory R skills. These modules using the SCORM content standard and published under a Creative Commons license. Our materials would integrate the Software Carpentry\Data Carpentry approach to pedagogy with best practices in online education and high-impact educational technology. These modules would use the SCORM content standard so that faculty could integrate them into their institutions' existing learning management systems. Our primary audience would be instructors looking to include statistical programming into existing classes. Additionally, some instructors might use these lessons as part of a new class to teach statistical computing in a semester-long format. Finally, we would also host user-facing implementations of the content on our website. Such an implementation would greatly expand the potential reach of the project. 
+
+These materials would benefit students, faculty, SwC\DC, and the larger R community. Learners would get the tools they need to not just do class assignments but to start coding for their own research. Faculty would have robust instructional materials designed to meet or exceed the Quality Matters certification standards (https://www.qualitymatters.org/rubric) when deployed as part of a well-designed course. Our organization would receive greater visibility across a number of disciplines and increased interest in intermediate\advanced workshops on R. Finally, the R community would see an influx of new users, first as students adopt R for their coursework, then later as those students bring their R skills into the workforce. 
 
 Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor 
 
