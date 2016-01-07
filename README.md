@@ -1,57 +1,32 @@
-## Proposal: Software Carpentry and Data Carpentry TeachR Online Modules
+# ICS proposal for interactive R teaching materials 
 
-#### The problem
+The R consortium invites the community to submit
+[ISC Proposals](https://www.r-consortium.org/about/isc/proposals):
 
-> What problem do you want to solve? Why is it a problem? Who does it
-> affect? What will solving the problem enable? This section should
-> include a brief summary of existing work, such as other packages. If
-> you are proposing a change to R itself, you must include a letter of
-> support from a member of R core.
+> The goal of the Infrastructure Steering Committee (the ISC) is to
+> support projects that broadly help the R community. This might be
+> software development, developing new teaching materials, documenting
+> best practices, standardising APIs or doing research. Currently, the
+> ISC chiefly provides financial support for projects proposed by
+> individuals or teams who have the skills to carry out the work, but
+> we can also provide administrative support, promotion and some
+> collaboration tools for groups who would like to study more
+> ambitious projects.
 
-R is in high demand - an ever increasing number of people from various
-domains are keen to learn it and further improve their skills. While
-there is an enormous amount of R teaching material, commercial as well
-as
-[freely available](http://swcarpentry.github.io/r-novice-inflammation/),
-qualified instructors who possess skills in R and in effective
-teaching methodology, is not widely available.
+* Deadline: 10 January 2016
+* 2-5 pages
+* [Proposal](ISC-TeachRproposal.md)
+* To be email to proposal@r-consortium.org
 
-#### The plan
+### Summary
 
-> How are you going to solve the problem? Include the concrete actions
-> you will take and an estimated timeline. What are likely failure
-> modes and how will you recover from them?
+Suggestion: Funding to develop interactive online modules to teach R based on the proven curriculum and pedagogy of Software Carpentry and Data Carpentry. Modules would be designed for easy implementation in Learning Management Systems (LMS), such as Blackboard and Moodle. The core audiences would be individual learners, past workshop participants looking to expand their skills, and college-level instructors looking to integrate statistical computing into their courses without taking class time.  
 
-Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor 
+### Who
 
-#### How can the ISC help
-
-> What can we do to help you? If you need money, how much? How will
-> you spend it? We expect that most of the budget will be on people,
-> but we will consider funding travel and equipment if you have good
-> justification. How can we help promote your project? How else could
-> we help?
-
-Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor We would like to request financial support from the ISC to organise
-and promote the courses. Possibly also with IT to run the online course. Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor 
+* John Moreau 
+* 
 
 
-#### Budget
-
-> Please note that the budget for the ISC is currently limited. We are
-> likely to fund one or two projects with a budget of $20-30k
-> projects, and handful of projects with budgets of of $5-10k. We do
-> not pay overhead.
-
-Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Ipsum Lorem Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor 
-
-#### Dissemination
-
-> How will you ensure that your work is available to the widest number
-> of people? What open source license will you use? How will host your
-> code so that others can contribute? How will you publicise your
-> work? We encourage you to plan at least two blog posts to the R
-> consortium blog: once to announce the project, and one to write up
-> what you achieved.
-
-Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor CC-BY license Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor 
+If you have questions or comments, please open an
+[issue](https://github.com/JohnRMoreau/ICS_Grant-TeachR/issues). Would you be interested in helping out? Please open issues and send pull requests. 
